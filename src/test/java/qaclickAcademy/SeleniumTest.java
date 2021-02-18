@@ -19,4 +19,9 @@ public class SeleniumTest {
 	public void ElementsFunctional() {
 		System.out.println("Elements Functional");
 	}
+	
+	@Test
+	public void ElementsFunctionalss() {
+		System.out.println("Elements Functional");
+	}
 }
